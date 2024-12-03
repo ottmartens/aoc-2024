@@ -1,0 +1,4 @@
+Benchmark 1: ./target/release/aoc_3
+  Time (mean ± σ):      22.3 ms ±   1.7 ms    [User: 4.0 ms, System: 3.6 ms]
+  Range (min … max):    17.7 ms …  25.8 ms    135 runs
+ 
